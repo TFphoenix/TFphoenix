@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Working on this about section, untill then you can find me on:
+- LinkedIn: https://www.linkedin.com/in/teodor-mihaescu
+- Email: teodor@mihaescu.info
+
+
 <!--
 **TFphoenix/TFphoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
