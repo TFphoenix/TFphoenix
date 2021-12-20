@@ -1,6 +1,5 @@
 ### Hi there, I'm Teodor 👋
 
-## I'm a Student and a Developer
 - 🎓  I'm currently studying M.Sc. Informatics at [Technical University of Munich](https://www.tum.de/en/)
 - 💼  I'm currently working as a Software Developer at [Trimble Romania](https://www.trimble.com/en)
 - 🎮  I'm developing video-games in a team of friends, as a side-project on [itch.io/TFphoenix](https://itch.io/profile/tfphoenix)
