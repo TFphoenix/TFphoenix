@@ -1,7 +1,7 @@
 ### Hi there, I'm Teodor 👋
 
 - 🎓  I'm currently studying M.Sc. Informatics at [Technical University of Munich](https://www.tum.de/en/)
-- 💼  I'm currently working as a Software Developer at [Trimble Romania](https://www.trimble.com/en)
+- 💼  I'm currently a proud [STAR STUDENT](https://www.sap.com/germany/about/careers/students-graduates/vocational-training/usa.html) at [SAP SE](https://www.sap.com/germany/index.html)
 - 🎮  I'm developing video-games in a team of friends, as a side-project on [itch.io/TFphoenix](https://itch.io/profile/tfphoenix)
 - 👨‍💻  One of the projects I am most proud of is [UNpaper, a Document Digitizer Cloud Solution](https://github.com/TFphoenix/un-paper)
 - 🥅  2022 Goals: Learn more about Networking and Security. Continue improving on Angular & .NET full-stack development.
