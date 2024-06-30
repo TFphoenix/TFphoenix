@@ -1,13 +1,13 @@
 ### Hi there, I'm Teodor 👋
 
-- 🎓  I'm currently studying [M.Sc. Informatics](https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/) at [Technical University of Munich](https://www.tum.de/en/)
-- 💼  I'm currently a proud [STAR STUDENT](https://www.sap.com/germany/about/careers/students-graduates/vocational-training/usa.html) at [SAP SE](https://www.sap.com/germany/index.html)
-- 🎮  I'm developing video-games in a team of friends, as a side-project on [itch.io/TFphoenix](https://itch.io/profile/tfphoenix)
+- 💼  I'm a cloud-native developer of [Kyma](https://github.com/kyma-project) at [SAP SE](https://www.sap.com/germany/index.html)
+- 🎓  I'm waiting for my [M.Sc. Informatics](https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/) diploma from [Technical University of Munich](https://www.tum.de/en/)
+- 🎮  I'm developing games, both solo and in a team of friends, as a side-project on [itch.io/TFphoenix](https://itch.io/profile/tfphoenix)
 - 👨‍💻  One of the projects I am most proud of is [UNpaper, a Document Digitizer Cloud Solution](https://github.com/TFphoenix/un-paper)
-- 🥅  2023 Goals: 
-  - Learn more about Networking and Security
-  - Continue improving full-stack development knowledge
-  - Successfully finish my master studies
+- 🥅  2024 Goals: 
+  - Improve K8S and cloud-native development knowledge
+  - Restart working on some abandoned projects
+  - Improve Unreal knowledge and learn Godot
 - 🎨  Passionate about: graphic design, UI/UX, poetry, dancing, Formula 1, and more...
 
 ### Connect with me:
